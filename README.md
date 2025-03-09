@@ -1,6 +1,4 @@
-<p class="demoTitle">&nbsp;</p>
-<h1 data-pm-slice="1 3 []">&nbsp;</h1>
-<h1 data-pm-slice="1 3 []">Lips Detection and Coloring</h1>
+<p class="demoTitle">Lips Detection and Coloring</p>
 <p>This project detects faces using dlib's facial landmark predictor and applies a customizable color mask to the lips region in an image or webcam feed. Users can adjust the mask color in real-time using trackbars for Blue, Green, and Red (BGR) values.</p>
 <h2>Features</h2>
 <ul data-spread="false">
